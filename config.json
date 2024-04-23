@@ -1,0 +1,26 @@
+{
+    "repositories": [
+      {
+        "repo_name": "LLMs_Inference",
+        "user": "zhangzhang",
+        "passwd": "12345678",
+        "url": "https://github.com/CodexDive/LLMs_Inference",
+        "token": "BCTEUWOT26RFN6LZ72VJ5HDGE5WIG",
+        "tags": [
+          "inference"
+        ]
+      },
+      {
+        "repo_name": "LLMChat",
+        "user": "zhangwei",
+        "passwd": "123456",
+        "url": "https://github.com/CodexDive/LLMChat",
+        "token": "BCTEUWJ76AILP3ZL54L25JDGE5WBS",
+        "tags": [
+          "application"
+        ]
+        
+      }
+    ]
+  }
+  
